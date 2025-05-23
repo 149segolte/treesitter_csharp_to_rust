@@ -8,7 +8,10 @@ cc = "*"
 
 [dependencies]
 anyhow = "1.0.98"
+goblin = "0.9.3"
 proc-macro2 = "1.0.94"
 quote = "1.0.40"
+rand = "0.9.1"
+scroll = "0.12.0"
 tree-sitter = "0.25.3"
 tree-sitter-c-sharp = "0.23.1"
